@@ -369,7 +369,7 @@ footer {
     top: 70%;
     left: 5%;
     transform: translateY(-50%) rotate(-15deg);
-    width: 600px;
+    width: 30vw;
     height: auto;
     opacity: 1;
     transition: opacity 0.3s ease-out;
@@ -382,7 +382,7 @@ footer {
     top: 90%;
     right: 5%;
     transform: translateY(-50%) rotate(15deg);
-    width: 600px;
+    width: 30vw;
     height: auto;
     opacity: 1;
     transition: opacity 0.3s ease-out;
@@ -394,7 +394,7 @@ footer {
     position: absolute;
     top: 8%;
     right: 1%;
-    width: 80px;
+    width: 5vw;
     height: auto;
     opacity: 1;
     transition: opacity 0.3s ease-out;
@@ -406,7 +406,7 @@ footer {
     position: absolute;
     top: 13%;
     left: 5%;
-    width: 500px;
+    width: 25vw;
     height: auto;
     opacity: 1;
     transition: opacity 0.3s ease-out;
@@ -418,7 +418,7 @@ footer {
     position: absolute;
     top: 15%;
     left: 30%;
-    width: 200px;
+    width: 10vw;
     height: auto;
     opacity: 1;
     transition: opacity 0.3s ease-out;
@@ -431,7 +431,7 @@ footer {
     top: 50%;
     right: 0%;
     transform: translateY(-50%) rotate(-15deg);
-    width: 700px;
+    width: 35vw;
     height: auto;
     opacity: 1;
     transition: opacity 0.3s ease-out;
